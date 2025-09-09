@@ -3,7 +3,7 @@
 ### 1. Open in Colab
 Click the badge below to launch the notebook in Google Colab:
 
-[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github.com/Madhav-000-s/image-metadata-showcase/blob/main/notebook/Image_Metadata_Analysis_final.ipynb)
+[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/Madhav-000-s/image-metadata-showcase/blob/main/notebook/Image_Metadata_Analysis_final.ipynb)
 
 ---
 
